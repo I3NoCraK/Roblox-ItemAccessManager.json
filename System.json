@@ -1,9 +1,18 @@
 {
     "GlobalPermissions": {
         "Players": [
-            1663412321 -- I3_NoPrime
-            2619882153 -- KAKASHIHATAKI2x
-            7158525435 -- OrtePowerr
+            {
+                "ID": 1663412321,
+                "Name": "I3_NoPrime"
+            },
+            {
+                "ID": 2619882153,
+                "Name": "KAKASHIHATAKI2x"
+            },
+            {
+                "ID": 7158525435,
+                "Name": "OrtePowerr"
+            }
         ],
         "Tiers": ["A", "B", "C", "D", "S"]
     },
@@ -11,7 +20,10 @@
     "Items": {
         "Radio": {
             "Players": [
-                1663412321
+                {
+                    "ID": 1663412321,
+                    "Name": "I3_NoPrime"
+                }
             ],
             "ReplicatedStoragePath": "Tools.Radio",
             "Tier": "A"
