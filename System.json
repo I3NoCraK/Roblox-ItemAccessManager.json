@@ -2,8 +2,8 @@
     "GlobalPermissions": {
         "Players": [
             {
-                "ID": 12,
-                "Name": "ta"
+                "ID": 1663412321,
+                "Name": "I3_NoPrime"
             },
             {
                 "ID": 2619882153,
@@ -23,6 +23,10 @@
                 {
                     "ID": 2619882153,
                     "Name": "KAKASHIHATAKI2x"
+                },
+                {
+                    "ID": 12,
+                    "Name": "exemplo"
                 }
             ],
             "ReplicatedStoragePath": "Tools.Radio",
