@@ -1,0 +1,20 @@
+{
+    "GlobalPermissions": {
+        "Players": [
+            1663412321,
+            12
+        ],
+        "Tiers": ["A", "B", "C", "D", "S"]
+    },
+
+    "Items": {
+        "Radio": {
+            "Players": [
+                1663412321,
+                12
+            ],
+            "ReplicatedStoragePath": "Assets.Radio",
+            "Tier": "A"
+        }
+    }
+}
