@@ -18,7 +18,7 @@
     },
 
     "Items": {
-        "Radio": {
+        "M1911": {
             "Players": [
                 {
                     "ID": 2619882153,
@@ -29,7 +29,7 @@
                     "Name": "exemplo"
                 }
             ],
-            "ReplicatedStoragePath": "Tools.Radio",
+            "ReplicatedStoragePath": "Tools.M1911",
             "Tier": "A"
         }
     }
